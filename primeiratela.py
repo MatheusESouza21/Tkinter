@@ -25,7 +25,7 @@ lb.place(x=100,y=100)
 #cria um botão que posicina (place) ele em relação a label.
 
 bt = Button(i, width='20',text='OK')
-bt.place(x=530,y=100)
+bt.place(x=230,y=100)
 
 #gera a janela gráfica 
 i.mainloop()
